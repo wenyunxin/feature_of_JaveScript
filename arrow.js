@@ -1,4 +1,4 @@
-var R = require('ramda');
+import * as R from 'ramda';
 //this在箭头函数中的指向
 var bryant = {
     name : 'kobe',
