@@ -5,6 +5,7 @@
   "dependencies": {
     "nodemailer": "^4.6.8",
     "nodemailer-smtp-transport": "^2.7.4",
-    "ramda": "^0.25.0"
+    "ramda": "^0.25.0",
+    "random-int": "^1.0.0"
   }
 }
