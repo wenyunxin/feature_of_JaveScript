@@ -1,4 +1,3 @@
-"use strict";
 /* create a global variable named CreateCounter
    and define as a function */
 function CreatCounter(){

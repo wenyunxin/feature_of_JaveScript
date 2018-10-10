@@ -1,4 +1,3 @@
-"use strict";
 // iterator a Map structure
 const map = new Map();
 map.set('first', 'hello');
